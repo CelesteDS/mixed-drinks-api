@@ -1,0 +1,19 @@
+{
+  "name": "mixed-drinks-api",
+  "version": "1.0.0",
+  "description": "phase 2 pairing challenge",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CelesteDS/mixed-drinks-api.git"
+  },
+  "author": "Celeste De Santiago and Marquis Parks",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CelesteDS/mixed-drinks-api/issues"
+  },
+  "homepage": "https://github.com/CelesteDS/mixed-drinks-api#readme"
+}
