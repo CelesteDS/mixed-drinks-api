@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/CelesteDS/mixed-drinks-api/issues"
   },
-  "homepage": "https://github.com/CelesteDS/mixed-drinks-api#readme"
+  "homepage": "https://github.com/CelesteDS/mixed-drinks-api#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "pg-promise": "^7.3.1"
+  }
 }
